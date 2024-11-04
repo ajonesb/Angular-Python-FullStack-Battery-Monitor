@@ -1,0 +1,5 @@
+# Ignore node_modules in the frontend Angular directory
+voltage-monitor/node_modules/
+
+# Ignore venv in the backend Python directory
+Backend/venv/
